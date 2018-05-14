@@ -1,4 +1,4 @@
-package org.mrpaulwoods.fun;
+package org.mrpaulwoods.fun.integration;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

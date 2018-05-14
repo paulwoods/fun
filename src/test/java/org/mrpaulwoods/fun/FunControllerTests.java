@@ -11,4 +11,5 @@ public class FunControllerTests {
     public void testIndex() {
         Assert.assertEquals("having fun yet?", controller.index());
     }
+
 }
